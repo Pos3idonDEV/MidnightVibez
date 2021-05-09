@@ -1,3 +1,3 @@
 # Themes
 
-Here you see all my Themes
+This is a copy of Tropicals Repository. Its a example, i update this next time
